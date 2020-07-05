@@ -1,6 +1,6 @@
 **About:**
 
-Sound files cutter and shuffler. Created to create collages from telegram voice messages and other audio files. 
+Sound files cutter and shuffler. Created to make collages from telegram voice messages and other audio files. 
 
 **Dependencies:**
 
