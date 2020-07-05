@@ -1,0 +1,8 @@
+input/*
+!input/.gitkeep
+intermed/mp3_cuts/*
+!intermed/mp3_cuts/.gitkeep
+intermed/mp3_full/*
+!intermed/mp3_full/.gitkeep
+output/*
+!output*/.gitkeep
